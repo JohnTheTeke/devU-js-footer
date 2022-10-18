@@ -8,7 +8,7 @@ Install with the commands:
 npm install --save devU-js-footer
 ```
 
-Add to a Javascript Project with the follwing code:
+Add to a Javascript Project with the following code:
 
 ```javascript
 import{footer} from 'devU-js-footer';
